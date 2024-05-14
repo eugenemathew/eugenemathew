@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eugenemathew
-- 👀 I’m interested in MainFrame technologies
+- 👀 I’m interested in MainFrame technology
 - 🌱 I’m currently working in cobal, JCL, REXX, IDMS
 - 📫 My Linkedin - [linkedin](https://www.linkedin.com/in/eugene%2Dmathew%2Da432a31a2/) [Mail](mailto:eugenemathew1@gmail.com)
 - 🌐 My Website - [website](https://eugenemathew.github.io)
